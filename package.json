@@ -1,7 +1,6 @@
 {
   "name": "json",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "start": "node server.js",
@@ -17,5 +16,6 @@
   "bugs": {
     "url": "https://github.com/AkashKeshari111/json-tweeter/issues"
   },
-  "homepage": "https://github.com/AkashKeshari111/json-tweeter#readme"
+  "homepage": "https://github.com/AkashKeshari111/json-tweeter#readme",
+  "description": ""
 }
