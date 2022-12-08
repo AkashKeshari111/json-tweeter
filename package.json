@@ -17,5 +17,8 @@
     "url": "https://github.com/AkashKeshari111/json-tweeter/issues"
   },
   "homepage": "https://github.com/AkashKeshari111/json-tweeter#readme",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "json-server": "^0.17.1"
+  }
 }
