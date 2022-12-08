@@ -1,0 +1,29 @@
+{
+    "user": [
+      {
+        "id": 1,
+        "avatar": "",
+        "user_name": "AkashKeshari111",
+        "full_name": "Akash Keshari",
+        "email": "a@gmail.com",
+        "password": "123"
+      }
+    ],
+    "posts": [
+      {
+        "id": 1,
+        "my_post": "I am making a tweeter clone",
+        "gif": "https://media3.giphy.com/avatars/SWR-Kindernetz/nEi1obQZlZnB.png"
+      },
+      {
+        "my_post": "a dream comes true",
+        "gif": "https://media3.giphy.com/avatars/SWR-Kindernetz/nEi1obQZlZnB.png",
+        "id": 2
+      },
+      {
+        "my_post": "My notes",
+        "gif": "https://media1.giphy.com/avatars/tobycooke/DYelCfOB3sPm.gif",
+        "id": 3
+      }
+    ]
+  }
